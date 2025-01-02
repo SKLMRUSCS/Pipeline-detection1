@@ -6,8 +6,8 @@ This project provides a YOLO-format dataset for underwater pipeline detection, i
 
 ## Dataset Contents
 
-- **Training Set (train)**: Contains N images and their corresponding annotation files.
-- **Validation Set (val)**: Contains M images and their corresponding annotation files.
+- **Training Set (train)**: Contains 6396 images and their corresponding annotation files.
+- **Validation Set (val)**: Contains 1575 images and their corresponding annotation files.
 - **Class File (classes.txt)**: Defines the names of all classes in the object detection task.
 
 The dataset is fully compatible with the [YOLO format](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data) and works with frameworks like YOLOv4, YOLOv5, and YOLOv7.
